@@ -1,6 +1,7 @@
 # Gemini AI Assistant
 
 A conversational AI chatbot built using Python, Streamlit, and Google Gemini API.
+🔗 **Live Demo:** https://gemini-ai-assistant-iq7fvbgzzpw43mnfxexgbt.streamlit.app/
 
 ## Features
 
