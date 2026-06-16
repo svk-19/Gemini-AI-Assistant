@@ -23,7 +23,7 @@ client = genai.Client(
 # SIDEBAR
 # =====================================
 
-st.sidebar.title("🤖 Gemini AI Assistant")
+st.sidebar.title("🤖 SVK AI ASSISTANT")
 st.sidebar.write("Built by Vamshi")
 
 mode = st.sidebar.selectbox(
