@@ -77,7 +77,7 @@ st.sidebar.download_button(
 # TITLE
 # =====================================
 
-st.title("🤖 Gemini AI Assistant")
+st.title("🤖 SVK AI ASSISTANT")
 
 # =====================================
 # SYSTEM PROMPT
